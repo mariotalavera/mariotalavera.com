@@ -9,7 +9,8 @@
 title: Mario Talavera Writes
 email: mario.talavera@gmail.com
 description:  # this means to ignore newlines until "baseurl:"
-  This is my new blog.  My old blog can be read at at http://mtalavera.worpdress.com.
+  Hi, I'm Mario Talavera, Computer programmer living in Orlando, Fl.  This is where I write about things I find interesting.  I am currently working at Oracle.  
+   This is my new blog.  My old blog can be read at at http://mtalavera.worpdress.com.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.mariotalavera.com" # the base hostname & protocol for your site
 twitter_username: mayin
