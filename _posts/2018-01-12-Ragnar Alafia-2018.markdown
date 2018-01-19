@@ -7,11 +7,11 @@ published: true
 ---
 
 ## The Ragnar Experience
-From arrival to drop off to parking to setting up camp, you realize this is no ordinary foot race.  At a road race, the typical scene includes runners, each following a common, but meticulous, plan.  This plan usually includes packet pickup, staying warm, carefully timing eating, minimizing walking and staking porta potty locations.  At Ragar Alafia, the scene was more reminiscent of huge camping grounds combined with a carnival.  
+From arrival to drop off to parking to setting up camp, you realize this is no ordinary foot race.  At a road race, the typical scene includes runners, each following a common, but meticulous, plan.  This plan usually includes packet pickup, staying warm, carefully timing eating, minimizing walking and staking porta potty locations.  At [Ragar Alafia](https://www.runragnar.com/event-detail/trail/alafia_river_fl "Ragar Alafia"), the scene was more reminiscent of huge camping grounds combined with a carnival.  
 
 ![Alafia Commons]({{ "/assets/alafia/camp_commons.jpeg" | absolute_url }}) 
 
-For this particular Ragnar, about 225 teams met about 30 miles east of Tampa for an overnight stay at Alafia River in Florida.  Most of the teams were made up of 8 runners.  Utra Teams had less.  There was a mix of men, women and coed teams across various categories. These included a newly-created Crossfit Category and a High School Category.  There were even a few kids roaming the grounds giving this event a bit of a family feeling as well. Neat.
+For this particular [Ragnar](https://www.runragnar.com "Ragnar"), about 225 teams met about 30 miles east of Tampa for an overnight stay at [Alafia River](https://www.stateparks.com/alafia_river_state_park_in_florida.html "Alafia River") in Florida.  Most of the teams were made up of 8 runners.  Utra Teams had less.  There was a mix of men, women and coed teams across various categories. These included a newly-created Crossfit Category and a High School Category.  There were even a few kids roaming the grounds giving this event a bit of a family feeling as well. Neat.
 
 ![Tent City]({{ "/assets/alafia/tent_city.jpeg" | absolute_url }}) 
 
@@ -72,7 +72,7 @@ I find it a bit hard to explain your 'first' trail race.  There is a feeling tha
 
 ## The Weather, the storm
 
-With humidity ranging from 51 to 98 percent, temperatures as low as 44 and as high as 85 degrees and wind gusts of up to 25 miles per hour, we experienced typical Florida weather.
+With humidity ranging from 51 to 98 percent, temperatures as low as 44 and as high as 85 degrees and wind gusts of up to 25 miles per hour, we experienced typical Florida weather.  At its worst, it was raining outside of the tent; it was rainng inside of the tent.  We lost one tent to Ragnar...
 
 ![Race Weather]({{ "/assets/alafia/race_weather3.PNG" | absolute_url }})
 
@@ -84,17 +84,28 @@ This is how my team did.
 
 ![Race Times]({{ "/assets/alafia/team_times2.PNG" | absolute_url }}) 
 
-And this is very odd.  The times we recorded vary, in some cases, significantly from the official Ragnar times.  I am not picking on minutes; some of the discrepancies are way off. For exmaple, for the loops run together, we should all have the same times yet we do not. 
+And this is very odd.  The times we recorded vary, in some cases, significantly from the official Ragnar times.  I am not picking on minutes; some of the discrepancies are way off. For example, for the loops run together, we should all have the same times yet we do not. 
+
+And this is what Ragnar recorded, [Ragnar Results](http://www.racetecresults.com/MyResults.aspx?uid=16432-2155-1-62352 "Ragnar Results").
 
 As you can see in the table that follows, the Ragnar Stopwatch needs new batteries. 
 
 <img src="/assets/alafia/times_off.PNG" alt="Times Off" width="60%">
 
-The only understandable offset is the race interruption  on 'Loop 10 Green'. Poor Harry.  Given the time, it would be interesting to loop deeper into this.
+The only understandable offset is the race interruption  on 'Loop 10 Green'. Poor Harry.  Given the time, it would be interesting to look deeper into this discrepancy one level up for all teams.
+
+Regardless, this is our official rank at race.  This includes the 4 hours lost to the storm delay; everyone's times are equally affected.  Not bad at all.
+
+<img src="/assets/alafia/ragnar_results.PNG" alt="Under20 Results" width="60%">
 
 ## The Medal
 
-It all concludes with our team medals.  Few of us had run trails before.  All of us will do this again.  Go Ragnar!
- 
 ![Medals]({{ "/assets/alafia/medals.jpg" | absolute_url }}) 
 
+It all concludes with our team medals.  
+ 
+## The Team
+
+![Race Weather]({{ "/assets/alafia/under20_team.jpg" | absolute_url }})
+
+Few of us had run trails before.  All of us will do this again.  Go Ragnar!
