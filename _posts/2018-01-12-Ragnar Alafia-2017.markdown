@@ -1,0 +1,111 @@
+---
+layout: post
+title:  "Ragnar Alafia 2017"
+date:   2018-01-12 00:01:00 -0500
+categories: running, ragnar, tableau
+published: true
+---
+
+## The Ragnar Experience
+From arrival to drop off to parking to setting up camp, you realize this is no ordinary foot race.  At a road race, the typical scene includes runners, each following a common, but meticulous, plan.  This plan usually includes packet pickup, staying warm, carefully timing eating, minimizing walking and staking porta potty locations.  At [Ragar Alafia](https://www.runragnar.com/event-detail/trail/alafia_river_fl "Ragar Alafia"), the scene was more reminiscent of huge camping grounds combined with a carnival.  
+
+![Alafia Commons]({{ "/assets/alafia/camp_commons.jpeg" | absolute_url }}) 
+
+For this particular [Ragnar](https://www.runragnar.com "Ragnar"), about 225 teams met about 30 miles east of Tampa for an overnight stay at [Alafia River](https://www.stateparks.com/alafia_river_state_park_in_florida.html "Alafia River") in Florida.  Most of the teams were made up of 8 runners.  Utra Teams had less.  There was a mix of men, women and coed teams across various categories. These included a newly-created Crossfit Category and a High School Category.  There were even a few kids roaming the grounds giving this event a bit of a family feeling as well. Neat.
+
+![Tent City]({{ "/assets/alafia/tent_city.jpeg" | absolute_url }}) 
+
+For the next 40 hours, we were part of Ragnar Nation.  We must have been made up of about 500 tents in total.
+
+The course is made up of 3 different loops with varying distances and difficulty levels.  For the typical 8 runner team, each runner gets to run each loop once.  
+
+![Trails 3]({{ "/assets/alafia/trails3.jpeg" | absolute_url }})  
+
+Once finished, the team would have run about 125 miles in total, non stop through the night, the sudden cold front, and the rain it brought.  
+
+![Trails 2]({{ "/assets/alafia/trails2.jpeg" | absolute_url }}) 
+
+While staying in Ragnar Nation, you are most likely in one of three modes: trying to sleep, getting ready to run or actually running.  To make matters more interesting, we had a cold front with lots of rain that coincided with the race.  If you've camped before, you already know that sleeping under extreme weather conditions is a crapshoot.  
+
+![Trails 1]({{ "/assets/alafia/trails1.jpeg" | absolute_url }}) 
+
+When you give up on sleeping, you have plenty of activities to pass the time.  Everyhing from crossfit, to yoga to a religious service was available.  The food trucks were amazing as well.  
+
+![Food Truck]({{ "/assets/alafia/foodtruck2.jpg" | absolute_url }}) 
+
+You never forget thou, day or night, rain or shine, there is always a team member out on a run.  Others are in the transition area watching a big monitor with runner updates on loop. With a sensor mat a quarter of a mile from the transition area, the next runner knows when to queue up for his loop.
+
+![Runner Board]({{ "/assets/alafia/runner_board_1.PNG" | absolute_url }}) 
+
+The race timer never stops, quick transitions are essential to your team's success.
+
+## Loop Highlights
+I find it a bit hard to explain your 'first' trail race.  There is a feeling that you should not be running thru these loops, that you should be hiking them instead.  If you regularly run on asphalt, blazing a trail at night in the rain just sounds wrong.  I stand corrected; getting away with running these trails is what makes it fun.
+
+### Green Loop - Easy
+- 5.6 miles.  This is the longest of all loops.
+- Why am I running on sand?  I think this was the most dangerous part of the race.  Very easy to twist an ankle here.
+
+![Green Loop]({{ "/assets/alafia/green_loop.PNG" | absolute_url }}) 
+![Green Loop]({{ "/assets/alafia/green_elevation.PNG" | absolute_url }}) 
+
+### Yellow Loop - Medium
+- 4.5 miles.  This is the shortest loop.
+- Ran at night, in the freaking rain. Favorite run for me.  Felt like an action movie.
+- Why am I running underwater? So much saturated land.  Frequent 6-7 inches of water.
+
+![Yellow Loop]({{ "/assets/alafia/yellow_loop.PNG" | absolute_url }}) 
+![Yellow Loop]({{ "/assets/alafia/yellow_elevation.PNG" | absolute_url }}) 
+
+### Red Loop - Hard
+- 5.4 miles.
+- Hardest loop by far.
+- Crazy mountain bike trail.
+- Rollecoaster type with sudden bumps and dips and banked turns.
+- Some dips just need to be run head on lest you do not make upcoming hill.
+- Most bridges.  Boards spaced for bikes not for runners.
+- Craziest route.  
+- Lots of fun.
+
+![Red Loop]({{ "/assets/alafia/red_loop.PNG" | absolute_url }}) 
+![Red Loop]({{ "/assets/alafia/red_elevation.PNG" | absolute_url }}) 
+
+## The Weather, the storm
+
+With humidity ranging from 51 to 98 percent, temperatures as low as 44 and as high as 85 degrees and wind gusts of up to 25 miles per hour, we experienced typical Florida weather.  At its worst, it was raining outside of the tent; it was rainng inside of the tent.  We lost one tent to Ragnar...
+
+![Race Weather]({{ "/assets/alafia/race_weather3.PNG" | absolute_url }})
+
+The storm caused a race interruption of about 4 hours from 10:30 pm to about 3 am.  This, in turn, prompted a reshuffling of runs for the later stages of the race.  
+Instead of individual runners doing a loop at a time, all runners in a team that were missing a loop would run such loop together.  
+Under the revised plan, if your teams's next loop was the Yellow Loop, for example, then all team members that hadn't run the Yellow Loop would run together.  This allowed most teams to finnish all their runs.
+
+This is how my team did.
+
+![Race Times]({{ "/assets/alafia/team_times2.PNG" | absolute_url }}) 
+
+And this is very odd.  The times we recorded vary, in some cases, significantly from the official Ragnar times.  I am not picking on minutes; some of the discrepancies are way off. For example, for the loops run together, we should all have the same times yet we do not. 
+
+And this is what Ragnar recorded, [Ragnar Results](http://www.racetecresults.com/MyResults.aspx?uid=16432-2155-1-62352 "Ragnar Results").
+
+As you can see in the table that follows, the Ragnar Stopwatch needs new batteries. 
+
+<img src="/assets/alafia/times_off.PNG" alt="Times Off" width="60%">
+
+The only understandable offset is the race interruption  on 'Loop 10 Green'. Poor Harry.  Given the time, it would be interesting to look deeper into this discrepancy one level up for all teams.
+
+Regardless, this is our official rank at race.  This includes the 4 hours lost to the storm delay; everyone's times are equally affected.  Not bad at all.
+
+<img src="/assets/alafia/ragnar_results.PNG" alt="Under20 Results" width="60%">
+
+## The Medal
+
+![Medals]({{ "/assets/alafia/medals.jpg" | absolute_url }}) 
+
+It all concludes with our team medals.  
+ 
+## The Team
+
+![Race Weather]({{ "/assets/alafia/under20_team.jpg" | absolute_url }})
+
+Few of us had run trails before.  All of us will do this again.  Go Ragnar!
