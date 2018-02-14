@@ -75,16 +75,16 @@ Finally, we collect a few more interesting facts that do not merit a chart for t
 |Date |	Jan 28th, 2018 |
 |Runners | 458 |
 |Finishers | 429 |
-|dnf |	29 |
+|Dnf |	29 |
 |Youngest |	11 |
 |Oldest | 81 |
-|Total Mens |	254 |
-|Total Women | 204 |
+|Total mens |	254 |
+|Total women | 204 |
 |Fastest pace / time | 6:27 / 2:48:57 |
 |Slowest pace / time | 17:45 / 7:44:49 |
 |Average pace / duration | 10:45 / 4:41 |
-|Lowest| 63 |
-|Highest| 81 |
+|Lowest temperature| 63 |
+|Highest temperature| 81 |
 
 * Paces are in minute/miles and times are in hour:minutes:seconds.
 
