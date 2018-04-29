@@ -1,22 +1,11 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
 title: Mario Talavera
 email: mario.talavera@gmail.com
-description:  # this means to ignore newlines until "baseurl:"
-  Hi, I'm Mario Talavera, Computer programmer living in Orlando, Fl.  This is where I write about things I find interesting.  I am currently working at Oracle.  
-   This is my new blog.  My old blog can be read at at http://mtalavera.worpdress.com.
+description: Mario Talavera's writings on data engineering, running and life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.mariotalavera.com" # the base hostname & protocol for your site
 twitter_username: mayin
 github_username:  mariotalavera
 
-# Build settings
 markdown: kramdown
 
 future: true
