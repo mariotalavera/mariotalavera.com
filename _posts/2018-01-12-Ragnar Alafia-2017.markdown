@@ -109,3 +109,9 @@ It all concludes with our team medals.
 ![Race Weather]({{ "/assets/alafia/under20_team.jpg" | absolute_url }})
 
 Few of us had run trails before.  All of us will do this again.  Go Ragnar!
+
+## The Data
+
+All data files can be fetched from github at [Ragnar- Alafia 2017](https://github.com/mariotalavera/Ragnar-Alafia-2017 "Ragnar-Alafia-2017") repo. 
+
+Instructions for use are in readme.  That is it.
