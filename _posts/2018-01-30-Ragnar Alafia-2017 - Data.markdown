@@ -2,7 +2,7 @@
 layout: post
 title:  "Ragnar Alafia 2017 - The Data"
 date:   2018-01-30 00:01:00 -0500
-categories: ragnar, data
+categories: ragnar data
 published: false
 ---
 

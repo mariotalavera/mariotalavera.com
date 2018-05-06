@@ -14,11 +14,13 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+          <a class="page-link" href="{{ site.baseurl }}/">Home</a>
+          <a class="page-link" href="https://www.linkedin.com/in/mayin" target="_blank">LinkedIn</a>
+          <a class="page-link" href="https://public.tableau.com/profile/mariotalavera" target="_blank">Tableau</a>
+          <a class="page-link" href="/blog/">Blog</a>
+
+          <a class="page-link" href="https://mtalavera.wordpress.com" target="_blank">Old blog</a>
+
       </div>
     </nav>
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Ragnar Alafia 2017"
 date:   2018-01-12 00:01:00 -0500
-categories: running, ragnar, tableau
+categories: running ragnar tableau
 published: true
 ---
 
