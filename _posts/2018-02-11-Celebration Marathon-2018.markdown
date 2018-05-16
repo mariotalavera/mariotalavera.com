@@ -6,25 +6,6 @@ categories: running
 published: true
 ---
 
-<style>
-table{
-    border-collapse: collapse;
-    border-spacing: 0;
-
-    border:2px solid #000000;
-}
-
-th{
-    border:2px solid #000000;
-    padding: 5px;
-}
-
-td{
-    border:2px solid #000000;
-    padding: 5px;
-}
-</style>
-
 I always enjoy reading race analysis posts like this 
 one [The Runners of the Boston Marathon 2017](https://medium.com/running-with-data/the-runners-of-the-boston-marathon-2017-56d2db7326c1)
 and this 
