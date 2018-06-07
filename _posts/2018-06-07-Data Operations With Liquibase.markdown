@@ -2,7 +2,7 @@
 layout: post
 title:  "Data Operations With Liquibase"
 date:   2018-06-07 00:01:00 -0500
-categories: 
+categories: ops 
 published: true
 ---
 
