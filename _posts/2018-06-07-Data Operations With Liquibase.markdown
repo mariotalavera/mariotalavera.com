@@ -7,7 +7,7 @@ published: true
 ---
 
 ## Description
-This is a 'helper' project to assist in common but annoying database ops.  It uses [Liquibase](http://www.liquibase.org/index.html) and [Apache Ant](https://ant.apache.org).  Too often, we have to move schemas between db vendors or between servers with limited access or rights.  Using Liquibase, it is very simple to do 90% of these operations with very little pain.  Here I am sharing a simple project with the 90% setup.  You can check it out at [**Github**](https://github.com/mariotalavera/liquibase_helper). 
+This is a 'helper' project to assist in common but annoying database ops.  It uses [Liquibase](http://www.liquibase.org/index.html) and [Apache Ant](https://ant.apache.org).  Too often, we have to move schemas between db vendors or between servers with limited access or rights.  Using Liquibase, it is very simple to do 90% of these operations with very little pain.  Here I am sharing a simple project with the 90% set up already.  You can check it out at [**Github**](https://github.com/mariotalavera/liquibase_helper). 
 
 Enjoy.
 
