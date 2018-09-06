@@ -8,6 +8,8 @@ published: true
 
 ## Tableau - Exploring Cohort Analysis
 
+<img style="margin:0 5px;display:inline;border-width:0;" title="Exploring Cohort Analysis With Tableau" src="http://mtalavera.files.wordpress.com/2014/10/image51.jpg" alt="Exploring Cohort Analysis With Tableau" width="500" border="0" />
+
 Simply put, cohort analysis is a technique for analyzing activity over time by a common characteristic.  Mostly used in sales and marketing, cohort analysis can be used in tasks such as analyzing customer loyalty, customer cost acquisition, marketing campaign effectiveness and to explore many other aspects of sales.
 
 <b>Dataset</b>
@@ -162,7 +164,7 @@ The y axis represents the number of sales (order count), the x axis represents h
 
 Using the first month (ago) as an example, we can tell how many orders can be attributed to each campaign for the life of the data set.  Skipping to the last month, 48, we see how many orders were placed for the campaign that occurred back then.  Seeing only one color makes sense since that is our first advertising campaign.
 
-<img style="margin:0 5px;display:inline;border-width:0;" title="Image(5)" src="http://mtalavera.files.wordpress.com/2014/10/image51.jpg" alt="Image(5)" width="644" height="433" border="0" />
+<img style="margin:0 5px;display:inline;border-width:0;" title="Exploring Cohort Analysis With Tableau" src="http://mtalavera.files.wordpress.com/2014/10/image51.jpg" alt="Exploring Cohort Analysis With Tableau" width="644" height="433" border="0" />
 
 The interactive version of the visualization above is <a href="https://public.tableausoftware.com/profile/mariotalavera#!/vizhome/CohortAnalysis/Sheet1" target="_blank">here</a> for you to try. There, you can see the actual numbers of orders per campaign, etc.
 
