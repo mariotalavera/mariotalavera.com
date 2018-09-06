@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exploring Cohort Analysis"
+title:  "Tableau - Exploring Cohort Analysis"
 date:   2018-09-01 00:01:00 -0500
 categories: tableau
 published: true
