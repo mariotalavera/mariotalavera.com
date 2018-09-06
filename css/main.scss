@@ -101,3 +101,22 @@ $on-laptop:        800px;
   .e:hover {
     color: #fff;
     background-color: #444444; }
+
+// Links
+a {
+  color: red;
+  font-family: helvetica;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+}
+
+a:visited {
+  color: red;
+}
