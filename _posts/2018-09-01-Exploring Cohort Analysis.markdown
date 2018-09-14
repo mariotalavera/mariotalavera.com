@@ -6,7 +6,7 @@ categories: tableau
 published: true
 ---
 
-## Tableau - Exploring Cohort Analysis
+## Tableau - Cohort Analysis
 
 <img style="margin:0 5px;display:inline;border-width:0;" title="Exploring Cohort Analysis With Tableau" src="http://mtalavera.files.wordpress.com/2014/10/image51.jpg" alt="Exploring Cohort Analysis With Tableau" width="500" border="0" />
 
