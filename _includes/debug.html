@@ -1,0 +1,28 @@
+<br/>
+
+<hr/>
+
+CF_DEBUG <br/>
+
+{{ site.attibute}}
+
+{% for var in site %}
+
+{% assign scope = "{{site" %}
+
+{% assign thisVar = var %}
+
+{% capture is_value %}
+{{scope}}.{{thisVar}}}}
+{% endcapture %}
+
+{%assign wavar = is_value%}
+
+{{ forloop.index }}. {{ var | capitalize }} | {{ "site." | append: var }} | {{ wavar }}	
+
+{% endfor %}
+
+
+
+
+

@@ -35,7 +35,7 @@ When you give up on sleeping, you have plenty of activities to pass the time.  E
 
 You never forget thou, day or night, rain or shine, there is always a team member out on a run.  Others are in the transition area watching a big monitor with runner updates on loop. With a sensor mat a quarter of a mile from the transition area, the next runner knows when to queue up for his loop.
 
-![Runner Board]({{ "/assets/alafia/runner_board_1.PNG" | absolute_url }}) 
+![Runner Board]({{ "/assets/alafia/runner_board_1.png" | absolute_url }}) 
 
 The race timer never stops, quick transitions are essential to your team's success.
 
@@ -46,16 +46,16 @@ I find it a bit hard to explain your 'first' trail race.  There is a feeling tha
 - 5.6 miles.  This is the longest of all loops.
 - Why am I running on sand?  I think this was the most dangerous part of the race.  Very easy to twist an ankle here.
 
-![Green Loop]({{ "/assets/alafia/green_loop.PNG" | absolute_url }}) 
-![Green Loop]({{ "/assets/alafia/green_elevation.PNG" | absolute_url }}) 
+![Green Loop]({{ "/assets/alafia/green_loop.png" | absolute_url }}) 
+![Green Loop]({{ "/assets/alafia/green_elevation.png" | absolute_url }}) 
 
 ### Yellow Loop - Medium
 - 4.5 miles.  This is the shortest loop.
 - Ran at night, in the freaking rain. Favorite run for me.  Felt like an action movie.
 - Why am I running underwater? So much saturated land.  Frequent 6-7 inches of water.
 
-![Yellow Loop]({{ "/assets/alafia/yellow_loop.PNG" | absolute_url }}) 
-![Yellow Loop]({{ "/assets/alafia/yellow_elevation.PNG" | absolute_url }}) 
+![Yellow Loop]({{ "/assets/alafia/yellow_loop.png" | absolute_url }}) 
+![Yellow Loop]({{ "/assets/alafia/yellow_elevation.png" | absolute_url }}) 
 
 ### Red Loop - Hard
 - 5.4 miles.
@@ -67,14 +67,14 @@ I find it a bit hard to explain your 'first' trail race.  There is a feeling tha
 - Craziest route.  
 - Lots of fun.
 
-![Red Loop]({{ "/assets/alafia/red_loop.PNG" | absolute_url }}) 
-![Red Loop]({{ "/assets/alafia/red_elevation.PNG" | absolute_url }}) 
+![Red Loop]({{ "/assets/alafia/red_loop.png" | absolute_url }}) 
+![Red Loop]({{ "/assets/alafia/red_elevation.png" | absolute_url }}) 
 
 ## The Weather, the storm
 
 With humidity ranging from 51 to 98 percent, temperatures as low as 44 and as high as 85 degrees and wind gusts of up to 25 miles per hour, we experienced typical Florida weather.  At its worst, it was raining outside of the tent; it was rainng inside of the tent.  We lost one tent to Ragnar...
 
-![Race Weather]({{ "/assets/alafia/race_weather3.PNG" | absolute_url }})
+![Race Weather]({{ "/assets/alafia/race_weather3.png" | absolute_url }})
 
 The storm caused a race interruption of about 4 hours from 10:30 pm to about 3 am.  This, in turn, prompted a reshuffling of runs for the later stages of the race.  
 Instead of individual runners doing a loop at a time, all runners in a team that were missing a loop would run such loop together.  
@@ -82,7 +82,7 @@ Under the revised plan, if your teams's next loop was the Yellow Loop, for examp
 
 This is how my team did.
 
-![Race Times]({{ "/assets/alafia/team_times2.PNG" | absolute_url }}) 
+![Race Times]({{ "/assets/alafia/team_times2.png" | absolute_url }}) 
 
 And this is very odd.  The times we recorded vary, in some cases, significantly from the official Ragnar times.  I am not picking on minutes; some of the discrepancies are way off. For example, for the loops run together, we should all have the same times yet we do not. 
 
@@ -90,13 +90,13 @@ And this is what Ragnar recorded, [Ragnar Results](http://www.racetecresults.com
 
 As you can see in the table that follows, the Ragnar Stopwatch needs new batteries. 
 
-<img src="/assets/alafia/times_off.PNG" alt="Times Off" width="60%">
+<img src="/assets/alafia/times_off.png" alt="Times Off" width="60%">
 
 The only understandable offset is the race interruption  on 'Loop 10 Green'. Poor Harry.  Given the time, it would be interesting to look deeper into this discrepancy one level up for all teams.
 
 Regardless, this is our official rank at race.  This includes the 4 hours lost to the storm delay; everyone's times are equally affected.  Not bad at all.
 
-<img src="/assets/alafia/ragnar_results.PNG" alt="Under20 Results" width="60%">
+<img src="/assets/alafia/ragnar_results.png" alt="Under20 Results" width="60%">
 
 ## The Medal
 
