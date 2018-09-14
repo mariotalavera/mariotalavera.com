@@ -2,7 +2,7 @@ title: Mario Talavera
 email: mario.talavera@gmail.com
 description: Mario Talavera's writings on data engineering, running and life.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://www.mariotalavera.com # the base hostname & protocol for your site
+url: https://www.mariotalavera.com # the base hostname & protocol for your site
 twitter_username: mayin
 github_username:  mariotalavera
 linkedin_username: mayin
