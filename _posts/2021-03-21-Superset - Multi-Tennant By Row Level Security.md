@@ -50,17 +50,17 @@ For this example, our intent is to restrict access to data based on streaming se
 
 To use this data in Superset, we must create a dataset and point it to the table created in the previous step.
 
-<img src="/assets/superset_row_level_security/1_dataset.png" alt="Superset Dataset" width="60%">
+<img src="/assets/superset_row_level_security/1_dataset.png" alt="Superset Dataset" width="75%">
 
 ## Create Superset Users
 
 For this feature, lets create a user for each streaming service.
 
-<img src="/assets/superset_row_level_security/6_netflix_user.png" alt="Netflix User" width="60%">
+<img src="/assets/superset_row_level_security/6_netflix_user.png" alt="Netflix User" width="75%">
 
 **Netflix User**
 
-<img src="/assets/superset_row_level_security/7_amazon_user.png" alt="Amazon User" width="60%">
+<img src="/assets/superset_row_level_security/7_amazon_user.png" alt="Amazon User" width="75%">
 
 **Amazon User**
 
@@ -68,11 +68,11 @@ For this feature, lets create a user for each streaming service.
 
 Row level secuity is enforced via roles in Superset.  Per our intent, lets create a role for each streaming service.
 
-<img src="/assets/superset_row_level_security/2_netflix_role.png" alt="Netflix Role" width="60%">
+<img src="/assets/superset_row_level_security/2_netflix_role.png" alt="Netflix Role" width="75%">
 
 **Netflix Role**
 
-<img src="/assets/superset_row_level_security/3_amazon_role.png" alt="Amazon Role" width="60%">
+<img src="/assets/superset_row_level_security/3_amazon_role.png" alt="Amazon Role" width="75%">
 
 **Amazon Role**
 
@@ -80,11 +80,11 @@ Row level secuity is enforced via roles in Superset.  Per our intent, lets creat
 
 Having both a user and a role for each streaming service, the next step is associating these using a **ROW_SECURITY_LEVEL** Filter in Superset.
 
-<img src="/assets/superset_row_level_security/4_netflix_filter.png" alt="Netflix Filter" width="60%">
+<img src="/assets/superset_row_level_security/4_netflix_filter.png" alt="Netflix Filter" width="75%">
 
 **Netflix Filter**
 
-<img src="/assets/superset_row_level_security/5_amazon_filter.png" alt="Amazon Filter" width="60%">
+<img src="/assets/superset_row_level_security/5_amazon_filter.png" alt="Amazon Filter" width="75%">
 
 **Amazon Filter**
 
@@ -94,17 +94,17 @@ Configuration done.  We are ready to test our work.
 
 Lets create a simple chart that returns all the records in our table.
 
-<img src="/assets/superset_row_level_security/8_user_genre_chart.png" alt="User Genre Chart" width="60%">
+<img src="/assets/superset_row_level_security/8_user_genre_chart.png" alt="User Genre Chart" width="75%">
 
 ## Checking Our Work
 
 Login as each user previously created; notice data is restricted to its own streaming service.
 
-<img src="/assets/superset_row_level_security/9_netflix_login_access.png" alt="Netflix Access" width="60%">
+<img src="/assets/superset_row_level_security/9_netflix_login_access.png" alt="Netflix Access" width="75%">
 
 **Netflix Login Access**
 
-<img src="/assets/superset_row_level_security/10_amazon_login_access.png" alt="Amazon Access" width="60%">
+<img src="/assets/superset_row_level_security/10_amazon_login_access.png" alt="Amazon Access" width="75%">
 
 **Amazon Login Access**
 
