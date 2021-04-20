@@ -18,6 +18,8 @@ DEFAULT_FEATURE_FLAGS: Dict[str, bool] = {
 }
 ```
 
+A new item is now available on settings menu now, Row Level Security.
+
 ## Sample User Data
 
 Lets create a scenario in our system where table associates users with video streaming services and the movie genres they like.
